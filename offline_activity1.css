@@ -3,16 +3,20 @@
 body
  {
     font-family:"arial";
+    color: mediumpurple;
+    background-color: whitesmoke;
+    margin-left: 40%;
+    margin-bottom: 3%;
 }
 
 /*Make it look more like a calculator*/
 #calc
 {
-	width:250px;
+	width: 28%;
     background-color:#cccccc;
     text-align:center;
     border:outset;
-    padding:5px;
+    margin-left: 0%;
 }
 
 /*Change the style of the buttons*/
